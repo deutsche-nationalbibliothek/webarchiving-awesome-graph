@@ -179,7 +179,7 @@ groups:
 - [InterPlanetary Wayback (ipwb)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using  💽 ⭐ 650 👀 20
 - [OpenWayback](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser.  💽
 - [OpenWayback](https://groups.google.com/g/openwayback-dev) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser.  💽
-- [PYWB](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'.  💽 ⭐ 1652 👀 59
+- [PYWB](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'.  💽 ⭐ 1651 👀 59
 - [Reconstructive](https://oduwsdl.github.io/Reconstructive/) - Reconstructive is a ServiceWorker module for client-side reconstruction of composite mementos by rerouting resource requests to corresponding archived copies (JavaScript). 💽
 - [ReplayWeb.page](https://webrecorder.net/replaywebpage/) - A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. Also available as an Electron based desktop application.  💽
 - [warc2html](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting. 💽 ⭐ 53 👀 9
@@ -203,13 +203,13 @@ groups:
 - [Chrome Revolver](https://chromewebstore.google.com/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - Browser extension: switches between browser tabs. 💽
 - [Chrome link checker](https://chromewebstore.google.com/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) - Browser extension: basic link checker. 💽
 - [Chrome link gopher](https://chromewebstore.google.com/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) - Browser extension: link harvester on a page. 💽
-- [FlameShot](https://github.com/flameshot-org/flameshot) - Screen capture and annotation on Ubuntu. 💽 ⭐ 29778 👀 213
+- [FlameShot](https://github.com/flameshot-org/flameshot) - Screen capture and annotation on Ubuntu. 💽 ⭐ 29779 👀 213
 - [PlayOnLinux](https://www.playonlinux.com/en/) - For running Xenu and Notepad++ on Ubuntu. 💽
 - [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS. 💽
 - [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows built-in for partial screen capture and annotation. On macOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture). 💽
 - [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS. 💽
 - [Xenu](http://home.snafu.de/tilman/xenulink.html) - Desktop link checker for Windows. 💽
-- [xDoTool](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu. 💽 ⭐ 3779 👀 62
+- [xDoTool](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu. 💽 ⭐ 3780 👀 62
 
 ### Search & Discovery
 
@@ -217,7 +217,7 @@ groups:
 - [PANDORÆ](https://github.com/Guillaume-Levrier/PANDORAE) - A desktop research software to be plugged on a Solr endpoint to query, retrieve, normalize and visually explore web archives.  💽 ⭐ 16 👀 1
 - [SecurityTrails](https://securitytrails.com/) - Web based archive for WHOIS and DNS records. REST API available free of charge. 💽
 - [Shine](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the  💽 ⭐ 43 👀 15
-- [SolrWayback](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive.  💽 ⭐ 137 👀 21
+- [SolrWayback](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive.  💽 ⭐ 138 👀 21
 - [Tempas v1](http://tempas.L3S.de/v1) - Temporal web archive search based on  💽
 - [Tempas v2](http://tempas.L3S.de/v2) - Temporal web archive search based on links and anchor texts extracted from the German web from 1996 to 2013 (results are not limited to German pages, e.g.,  💽
 - [Warclight](https://github.com/archivesunleashed/warclight) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats.  💽 ⭐ 50 👀 4
@@ -276,7 +276,7 @@ groups:
 
 ### Acquisition
 
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly  💽 ⭐ 27296 👀 183
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly  💽 ⭐ 27297 👀 183
 - [ArchiveWeb.Page](https://webrecorder.net/archivewebpage/) - A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC & WACZ files. Also available as an Electron based desktop application. 💽
 - [Auto Archiver](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the  💽 ⭐ 1069 👀 24
 - [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.  💽 ⭐ 1023 👀 23
@@ -319,7 +319,7 @@ groups:
 
 ## In Development
 
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly  💽 ⭐ 27296 👀 183
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly  💽 ⭐ 27297 👀 183
 - [Chronicler](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality.  💽 ⭐ 92 👀 3
 - [DiskerNet](https://github.com/DO-SAY-GO/dn) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay.  💽 ⭐ 3898 👀 38
 - [MementoMap](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python).  💽 ⭐ 11 👀 5
@@ -366,7 +366,7 @@ groups:
 - [OpenWayback](https://groups.google.com/g/openwayback-dev) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser.  💽
 - [OutbackCDX](https://github.com/nla/outbackcdx) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and  💽 ⭐ 42 👀 19
 - [PANDORÆ](https://github.com/Guillaume-Levrier/PANDORAE) - A desktop research software to be plugged on a Solr endpoint to query, retrieve, normalize and visually explore web archives.  💽 ⭐ 16 👀 1
-- [PYWB](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'.  💽 ⭐ 1652 👀 59
+- [PYWB](https://github.com/webrecorder/pywb) - A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'.  💽 ⭐ 1651 👀 59
 - [ReplayWeb.page](https://webrecorder.net/replaywebpage/) - A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. Also available as an Electron based desktop application.  💽
 - [Scoop](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web.  💽 ⭐ 196 👀 7
 - [Shine](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the  💽 ⭐ 43 👀 15
