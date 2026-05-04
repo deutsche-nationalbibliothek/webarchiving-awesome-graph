@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-05-04T00:27:39+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-04T11:34:49+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 27350 ;
+    ns1:num_stars 27367 ;
     ns1:num_watchers 182 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -204,7 +204,7 @@
 <http://awesome.org/iipc/Auto_Archiver> a sioc:Item,
         doap:Project ;
     rdfs:label "Auto Archiver" ;
-    dct:date "2026-05-02T22:56:14+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-04T06:46:46+00:00"^^xsd:dateTime ;
     dct:description "Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the " ;
     doap:bug-database <https://github.com/bellingcat/auto-archiver/issues> ;
     doap:category <http://awesome.org/iipc/acquisition> ;
@@ -217,7 +217,7 @@
         <https://github.com/bellingcat/auto-archiver.svn> ;
     doap:shortdesc "Automatically archive links to videos, images, and social media content from Google Sheets (and more)." ;
     owl:sameAs <https://github.com/bellingcat/auto-archiver> ;
-    ns1:num_stars 1074 ;
+    ns1:num_stars 1075 ;
     ns1:num_watchers 23 .
 
 <http://awesome.org/iipc/Awesome_Memento> a sioc:Item ;
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-05-04T00:38:23+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-04T12:54:00+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,8 +550,8 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 29822 ;
-    ns1:num_watchers 213 .
+    ns1:num_stars 29829 ;
+    ns1:num_watchers 214 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
     rdfs:label "GLAM Workbench: Web Archives" ;
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-05-04T01:06:58+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-04T11:37:14+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21027 ;
+    ns1:num_stars 21031 ;
     ns1:num_watchers 138 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1026,7 +1026,7 @@
 <http://awesome.org/iipc/SolrWayback> a sioc:Item,
         doap:Project ;
     rdfs:label "SolrWayback" ;
-    dct:date "2026-04-29T21:27:25+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-04T10:41:40+00:00"^^xsd:dateTime ;
     dct:description "A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. " ;
     doap:bug-database <https://github.com/netarchivesuite/solrwayback/issues> ;
     doap:category <http://awesome.org/iipc/search--discovery> ;
@@ -1038,7 +1038,7 @@
         <https://github.com/netarchivesuite/solrwayback.svn> ;
     doap:shortdesc "A search interface and wayback machine for the UKWA Solr based warc-indexer framework." ;
     owl:sameAs <https://github.com/netarchivesuite/solrwayback> ;
-    ns1:num_stars 139 ;
+    ns1:num_stars 140 ;
     ns1:num_watchers 20 .
 
 <http://awesome.org/iipc/Sparkling> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-05-03T19:35:48+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-04T10:22:33+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15049 ;
+    ns1:num_stars 15050 ;
     ns1:num_watchers 64 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2030,7 +2030,7 @@
 <http://awesome.org/iipc/warcbench> a sioc:Item,
         doap:Project ;
     rdfs:label "warcbench" ;
-    dct:date "2026-04-22T09:52:18+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-04T08:16:32+00:00"^^xsd:dateTime ;
     dct:description "A tool for exploring, analyzing, transforming, recombining, and extracting data from WARC (Web ARChive) files." ;
     doap:bug-database <https://github.com/harvard-lil/warcbench/issues> ;
     doap:category <http://awesome.org/iipc/utilities> ;
@@ -2042,7 +2042,7 @@
         <https://github.com/harvard-lil/warcbench.svn> ;
     doap:shortdesc "A tool for exploring, analyzing, transforming, recombining, and extracting data from WARC (Web ARChive) files." ;
     owl:sameAs <https://github.com/harvard-lil/warcbench> ;
-    ns1:num_stars 13 ;
+    ns1:num_stars 14 ;
     ns1:num_watchers 2 .
 
 <http://awesome.org/iipc/warcdb> a sioc:Item,
