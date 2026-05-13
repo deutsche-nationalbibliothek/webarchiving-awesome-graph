@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-05-12T19:48:23+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T13:16:18+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 27464 ;
+    ns1:num_stars 27466 ;
     ns1:num_watchers 180 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -251,7 +251,7 @@
 <http://awesome.org/iipc/Browsertrix_Crawler> a sioc:Item,
         doap:Project ;
     rdfs:label "Browsertrix Crawler" ;
-    dct:date "2026-05-12T20:46:47+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T07:39:41+00:00"^^xsd:dateTime ;
     dct:description "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. " ;
     doap:bug-database <https://github.com/webrecorder/browsertrix-crawler/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -265,7 +265,7 @@
         <https://github.com/webrecorder/browsertrix-crawler.svn> ;
     doap:shortdesc "Run a high-fidelity browser-based web archiving crawler in a single Docker container" ;
     owl:sameAs <https://github.com/webrecorder/browsertrix-crawler> ;
-    ns1:num_stars 1034 ;
+    ns1:num_stars 1036 ;
     ns1:num_watchers 23 .
 
 <http://awesome.org/iipc/Brozzler> a sioc:Item,
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-05-12T23:59:42+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T12:11:49+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,7 +550,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 29881 ;
+    ns1:num_stars 29882 ;
     ns1:num_watchers 214 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-05-13T01:17:19+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T09:47:32+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21098 ;
+    ns1:num_stars 21101 ;
     ns1:num_watchers 137 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1026,7 +1026,7 @@
 <http://awesome.org/iipc/SolrWayback> a sioc:Item,
         doap:Project ;
     rdfs:label "SolrWayback" ;
-    dct:date "2026-05-07T12:06:22+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T09:47:20+00:00"^^xsd:dateTime ;
     dct:description "A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. " ;
     doap:bug-database <https://github.com/netarchivesuite/solrwayback/issues> ;
     doap:category <http://awesome.org/iipc/search--discovery> ;
@@ -1038,7 +1038,7 @@
         <https://github.com/netarchivesuite/solrwayback.svn> ;
     doap:shortdesc "A search interface and wayback machine for the UKWA Solr based warc-indexer framework." ;
     owl:sameAs <https://github.com/netarchivesuite/solrwayback> ;
-    ns1:num_stars 141 ;
+    ns1:num_stars 142 ;
     ns1:num_watchers 20 .
 
 <http://awesome.org/iipc/Sparkling> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-05-12T14:53:53+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T07:21:06+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15080 ;
+    ns1:num_stars 15081 ;
     ns1:num_watchers 63 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2205,7 +2205,7 @@
 <http://awesome.org/iipc/xDoTool> a sioc:Item,
         doap:Project ;
     rdfs:label "xDoTool" ;
-    dct:date "2026-05-12T03:04:13+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T13:12:24+00:00"^^xsd:dateTime ;
     dct:description "Click automation on Ubuntu." ;
     doap:bug-database <https://github.com/jordansissel/xdotool/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -2217,7 +2217,7 @@
         <https://github.com/jordansissel/xdotool.svn> ;
     doap:shortdesc "fake keyboard/mouse input, window management, and more " ;
     owl:sameAs <https://github.com/jordansissel/xdotool> ;
-    ns1:num_stars 3791 ;
+    ns1:num_stars 3792 ;
     ns1:num_watchers 61 .
 
 <http://awesome.org/iipc/resources-for-web-publishers> a skos:Concept ;
