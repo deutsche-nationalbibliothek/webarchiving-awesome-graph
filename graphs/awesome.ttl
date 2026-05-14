@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-05-13T13:16:18+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T20:59:49+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 27466 ;
+    ns1:num_stars 27463 ;
     ns1:num_watchers 180 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -518,7 +518,7 @@
 <http://awesome.org/iipc/FastWARC> a sioc:Item,
         doap:Project ;
     rdfs:label "FastWARC" ;
-    dct:date "2026-05-12T22:45:29+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T22:19:10+00:00"^^xsd:dateTime ;
     dct:description "A high-performance WARC parsing library (Python)." ;
     doap:bug-database <https://github.com/chatnoir-eu/chatnoir-resiliparse/issues> ;
     doap:category <http://awesome.org/iipc/warc-io-libraries> ;
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-05-13T12:11:49+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T21:54:06+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,8 +550,8 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 29882 ;
-    ns1:num_watchers 214 .
+    ns1:num_stars 29886 ;
+    ns1:num_watchers 213 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
     rdfs:label "GLAM Workbench: Web Archives" ;
@@ -684,7 +684,7 @@
 <http://awesome.org/iipc/Internet_Archive_Library> a sioc:Item,
         doap:Project ;
     rdfs:label "Internet Archive Library" ;
-    dct:date "2026-05-12T20:07:28+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T17:10:36+00:00"^^xsd:dateTime ;
     dct:description "A command line tool and Python library for interacting directly with " ;
     doap:bug-database <https://github.com/jjjake/internetarchive/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -697,7 +697,7 @@
         <https://github.com/jjjake/internetarchive.svn> ;
     doap:shortdesc "A Python and Command-Line Interface to Archive.org" ;
     owl:sameAs <https://github.com/jjjake/internetarchive> ;
-    ns1:num_stars 1860 ;
+    ns1:num_stars 1859 ;
     ns1:num_watchers 53 .
 
 <http://awesome.org/iipc/Internet_Archive_Wayback> a sioc:Item ;
@@ -807,7 +807,7 @@
 <http://awesome.org/iipc/Obelisk> a sioc:Item,
         doap:Project ;
     rdfs:label "Obelisk" ;
-    dct:date "2026-05-03T16:44:04+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T21:00:51+00:00"^^xsd:dateTime ;
     dct:description "Go package and CLI tool for saving web page as single HTML file. " ;
     doap:bug-database <https://github.com/go-shiori/obelisk/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -820,7 +820,7 @@
         <https://github.com/go-shiori/obelisk.svn> ;
     doap:shortdesc "Go package and CLI tool for saving web page as single HTML file" ;
     owl:sameAs <https://github.com/go-shiori/obelisk> ;
-    ns1:num_stars 314 ;
+    ns1:num_stars 313 ;
     ns1:num_watchers 8 .
 
 <http://awesome.org/iipc/Offical_ISO_28500_WARC_specification_homepage> a sioc:Item ;
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-05-13T09:47:32+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T20:29:58+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-05-13T07:21:06+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T20:59:46+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15081 ;
+    ns1:num_stars 15080 ;
     ns1:num_watchers 63 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2065,7 +2065,7 @@
 <http://awesome.org/iipc/warcio> a sioc:Item,
         doap:Project ;
     rdfs:label "warcio" ;
-    dct:date "2026-05-09T08:21:59+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-13T14:00:48+00:00"^^xsd:dateTime ;
     dct:description "Streaming WARC/ARC library for fast web archive IO (Python). " ;
     doap:bug-database <https://github.com/webrecorder/warcio/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -2079,7 +2079,7 @@
         <https://github.com/webrecorder/warcio.svn> ;
     doap:shortdesc "Streaming WARC/ARC library for fast web archive IO" ;
     owl:sameAs <https://github.com/webrecorder/warcio> ;
-    ns1:num_stars 457 ;
+    ns1:num_stars 456 ;
     ns1:num_watchers 21 .
 
 <http://awesome.org/iipc/warcrefs> a sioc:Item,
