@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-05-27T23:49:53+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-28T13:47:17+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 27557 ;
+    ns1:num_stars 27562 ;
     ns1:num_watchers 181 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-05-27T23:05:07+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-28T11:10:36+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,7 +550,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 29973 ;
+    ns1:num_stars 29976 ;
     ns1:num_watchers 211 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-05-27T23:54:32+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-28T12:19:39+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21338 ;
+    ns1:num_stars 21351 ;
     ns1:num_watchers 138 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-05-27T20:04:52+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-28T06:41:10+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15121 ;
+    ns1:num_stars 15122 ;
     ns1:num_watchers 63 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -1954,7 +1954,7 @@
 <http://awesome.org/iipc/twarc> a sioc:Item,
         doap:Project ;
     rdfs:label "twarc" ;
-    dct:date "2026-05-27T11:47:49+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-28T12:04:14+00:00"^^xsd:dateTime ;
     dct:description "A command line tool and Python library for archiving Twitter JSON data. " ;
     doap:bug-database <https://github.com/DocNow/twarc/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1968,7 +1968,7 @@
         <https://github.com/DocNow/twarc.svn> ;
     doap:shortdesc "A command line tool (and Python library) for archiving Twitter JSON" ;
     owl:sameAs <https://github.com/DocNow/twarc> ;
-    ns1:num_stars 1393 ;
+    ns1:num_stars 1394 ;
     ns1:num_watchers 33 .
 
 <http://awesome.org/iipc/warc> a sioc:Item,
@@ -2012,7 +2012,7 @@
 <http://awesome.org/iipc/warc2html> a sioc:Item,
         doap:Project ;
     rdfs:label "warc2html" ;
-    dct:date "2026-05-04T00:08:32+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-28T11:56:50+00:00"^^xsd:dateTime ;
     dct:description "Converts WARC files to static HTML suitable for browsing offline or rehosting." ;
     doap:bug-database <https://github.com/iipc/warc2html/issues> ;
     doap:category <http://awesome.org/iipc/replay> ;
@@ -2024,7 +2024,7 @@
         <https://github.com/iipc/warc2html.svn> ;
     doap:shortdesc "Converts WARC files to static HTML" ;
     owl:sameAs <https://github.com/iipc/warc2html> ;
-    ns1:num_stars 54 ;
+    ns1:num_stars 55 ;
     ns1:num_watchers 9 .
 
 <http://awesome.org/iipc/warcbench> a sioc:Item,
