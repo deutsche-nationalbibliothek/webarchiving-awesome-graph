@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-05-30T12:42:59+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-31T00:53:29+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 27575 ;
+    ns1:num_stars 27580 ;
     ns1:num_watchers 181 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-05-30T11:54:04+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-30T21:34:49+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,7 +550,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 29996 ;
+    ns1:num_stars 30001 ;
     ns1:num_watchers 211 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-05-30T12:40:34+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-31T00:48:17+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21373 ;
+    ns1:num_stars 21379 ;
     ns1:num_watchers 138 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1321,7 +1321,7 @@
 <http://awesome.org/iipc/Warcprox> a sioc:Item,
         doap:Project ;
     rdfs:label "Warcprox" ;
-    dct:date "2026-05-27T09:09:57+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-30T17:57:49+00:00"^^xsd:dateTime ;
     dct:description "WARC-writing MITM HTTP/S proxy. " ;
     doap:bug-database <https://github.com/internetarchive/warcprox/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1333,7 +1333,7 @@
         <https://github.com/internetarchive/warcprox.svn> ;
     doap:shortdesc "WARC writing MITM HTTP/S proxy" ;
     owl:sameAs <https://github.com/internetarchive/warcprox> ;
-    ns1:num_stars 452 ;
+    ns1:num_stars 453 ;
     ns1:num_watchers 30 .
 
 <http://awesome.org/iipc/Warcworker> a sioc:Item,
@@ -1375,7 +1375,7 @@
 <http://awesome.org/iipc/Wayback> a sioc:Item,
         doap:Project ;
     rdfs:label "Wayback" ;
-    dct:date "2026-05-24T10:20:35+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-30T21:30:18+00:00"^^xsd:dateTime ;
     dct:description "A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. " ;
     doap:bug-database <https://github.com/wabarc/wayback/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1389,13 +1389,13 @@
         <https://github.com/wabarc/wayback.svn> ;
     doap:shortdesc "An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems." ;
     owl:sameAs <https://github.com/wabarc/wayback> ;
-    ns1:num_stars 2192 ;
+    ns1:num_stars 2193 ;
     ns1:num_watchers 6 .
 
 <http://awesome.org/iipc/Waybackpy> a sioc:Item,
         doap:Project ;
     rdfs:label "Waybackpy" ;
-    dct:date "2026-05-30T09:03:10+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-30T15:17:12+00:00"^^xsd:dateTime ;
     dct:description " Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  " ;
     doap:bug-database <https://github.com/akamhy/waybackpy/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1409,7 +1409,7 @@
         <https://github.com/akamhy/waybackpy.svn> ;
     doap:shortdesc "Wayback Machine API interface & a command-line tool" ;
     owl:sameAs <https://github.com/akamhy/waybackpy> ;
-    ns1:num_stars 584 ;
+    ns1:num_stars 583 ;
     ns1:num_watchers 8 .
 
 <http://awesome.org/iipc/Web2Warc> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-05-30T08:27:28+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-30T18:51:39+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15129 ;
+    ns1:num_stars 15130 ;
     ns1:num_watchers 63 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2185,7 +2185,7 @@
 <http://awesome.org/iipc/wikiteam> a sioc:Item,
         doap:Project ;
     rdfs:label "wikiteam" ;
-    dct:date "2026-05-24T01:07:25+00:00"^^xsd:dateTime ;
+    dct:date "2026-05-30T23:16:13+00:00"^^xsd:dateTime ;
     dct:description "Tools for downloading and preserving wikis. " ;
     doap:bug-database <https://github.com/WikiTeam/wikiteam/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -2199,7 +2199,7 @@
         <https://github.com/WikiTeam/wikiteam.svn> ;
     doap:shortdesc "Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis." ;
     owl:sameAs <https://github.com/WikiTeam/wikiteam> ;
-    ns1:num_stars 844 ;
+    ns1:num_stars 845 ;
     ns1:num_watchers 38 .
 
 <http://awesome.org/iipc/xDoTool> a sioc:Item,
