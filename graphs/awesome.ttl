@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-06-03T01:32:19+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T12:00:32+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -251,7 +251,7 @@
 <http://awesome.org/iipc/Browsertrix_Crawler> a sioc:Item,
         doap:Project ;
     rdfs:label "Browsertrix Crawler" ;
-    dct:date "2026-06-02T21:16:14+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T06:43:20+00:00"^^xsd:dateTime ;
     dct:description "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. " ;
     doap:bug-database <https://github.com/webrecorder/browsertrix-crawler/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -265,7 +265,7 @@
         <https://github.com/webrecorder/browsertrix-crawler.svn> ;
     doap:shortdesc "Run a high-fidelity browser-based web archiving crawler in a single Docker container" ;
     owl:sameAs <https://github.com/webrecorder/browsertrix-crawler> ;
-    ns1:num_stars 1047 ;
+    ns1:num_stars 1046 ;
     ns1:num_watchers 23 .
 
 <http://awesome.org/iipc/Brozzler> a sioc:Item,
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-06-02T21:55:48+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T13:31:30+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,7 +550,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 30036 ;
+    ns1:num_stars 30040 ;
     ns1:num_watchers 211 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -684,7 +684,7 @@
 <http://awesome.org/iipc/Internet_Archive_Library> a sioc:Item,
         doap:Project ;
     rdfs:label "Internet Archive Library" ;
-    dct:date "2026-06-02T17:56:43+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T08:42:48+00:00"^^xsd:dateTime ;
     dct:description "A command line tool and Python library for interacting directly with " ;
     doap:bug-database <https://github.com/jjjake/internetarchive/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -697,7 +697,7 @@
         <https://github.com/jjjake/internetarchive.svn> ;
     doap:shortdesc "A Python and Command-Line Interface to Archive.org" ;
     owl:sameAs <https://github.com/jjjake/internetarchive> ;
-    ns1:num_stars 1866 ;
+    ns1:num_stars 1867 ;
     ns1:num_watchers 53 .
 
 <http://awesome.org/iipc/Internet_Archive_Wayback> a sioc:Item ;
@@ -744,7 +744,7 @@
 <http://awesome.org/iipc/MemGator> a sioc:Item,
         doap:Project ;
     rdfs:label "MemGator" ;
-    dct:date "2026-05-21T15:57:36+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T13:58:22+00:00"^^xsd:dateTime ;
     dct:description "A Memento Aggregator CLI and Server (Golang). " ;
     doap:bug-database <https://github.com/oduwsdl/MemGator/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -758,7 +758,7 @@
         <https://github.com/oduwsdl/MemGator.svn> ;
     doap:shortdesc "A Memento Aggregator CLI and Server in Go" ;
     owl:sameAs <https://github.com/oduwsdl/MemGator> ;
-    ns1:num_stars 79 ;
+    ns1:num_stars 80 ;
     ns1:num_watchers 9 .
 
 <http://awesome.org/iipc/MementoMap> a sioc:Item,
@@ -807,7 +807,7 @@
 <http://awesome.org/iipc/Obelisk> a sioc:Item,
         doap:Project ;
     rdfs:label "Obelisk" ;
-    dct:date "2026-05-21T23:15:48+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T04:09:42+00:00"^^xsd:dateTime ;
     dct:description "Go package and CLI tool for saving web page as single HTML file. " ;
     doap:bug-database <https://github.com/go-shiori/obelisk/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -820,7 +820,7 @@
         <https://github.com/go-shiori/obelisk.svn> ;
     doap:shortdesc "Go package and CLI tool for saving web page as single HTML file" ;
     owl:sameAs <https://github.com/go-shiori/obelisk> ;
-    ns1:num_stars 313 ;
+    ns1:num_stars 314 ;
     ns1:num_watchers 8 .
 
 <http://awesome.org/iipc/Offical_ISO_28500_WARC_specification_homepage> a sioc:Item ;
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-06-02T13:35:48+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T13:29:55+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21403 ;
+    ns1:num_stars 21409 ;
     ns1:num_watchers 138 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-06-02T21:45:20+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T12:22:00+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15132 ;
+    ns1:num_stars 15134 ;
     ns1:num_watchers 63 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2205,7 +2205,7 @@
 <http://awesome.org/iipc/xDoTool> a sioc:Item,
         doap:Project ;
     rdfs:label "xDoTool" ;
-    dct:date "2026-06-02T19:22:42+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-03T13:43:04+00:00"^^xsd:dateTime ;
     dct:description "Click automation on Ubuntu." ;
     doap:bug-database <https://github.com/jordansissel/xdotool/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -2217,7 +2217,7 @@
         <https://github.com/jordansissel/xdotool.svn> ;
     doap:shortdesc "fake keyboard/mouse input, window management, and more " ;
     owl:sameAs <https://github.com/jordansissel/xdotool> ;
-    ns1:num_stars 3808 ;
+    ns1:num_stars 3809 ;
     ns1:num_watchers 61 .
 
 <http://awesome.org/iipc/resources-for-web-publishers> a skos:Concept ;
