@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-06-05T22:35:55+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-06T10:57:13+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 27632 ;
+    ns1:num_stars 27644 ;
     ns1:num_watchers 181 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-06-05T22:37:42+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-06T11:42:04+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,7 +550,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 30072 ;
+    ns1:num_stars 30075 ;
     ns1:num_watchers 211 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-06-06T00:49:05+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-06T12:13:38+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21427 ;
+    ns1:num_stars 21431 ;
     ns1:num_watchers 138 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-06-05T14:04:35+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-06T12:33:43+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15152 ;
+    ns1:num_stars 15158 ;
     ns1:num_watchers 63 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2167,7 +2167,7 @@
 <http://awesome.org/iipc/webarchive-indexing> a sioc:Item,
         doap:Project ;
     rdfs:label "webarchive-indexing" ;
-    dct:date "2025-12-19T10:49:07+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-06T05:21:36+00:00"^^xsd:dateTime ;
     dct:description "Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system." ;
     doap:bug-database <https://github.com/ikreymer/webarchive-indexing/issues> ;
     doap:category <http://awesome.org/iipc/utilities> ;
@@ -2179,7 +2179,7 @@
         <https://github.com/ikreymer/webarchive-indexing.svn> ;
     doap:shortdesc "Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system." ;
     owl:sameAs <https://github.com/ikreymer/webarchive-indexing> ;
-    ns1:num_stars 47 ;
+    ns1:num_stars 46 ;
     ns1:num_watchers 8 .
 
 <http://awesome.org/iipc/wikiteam> a sioc:Item,
