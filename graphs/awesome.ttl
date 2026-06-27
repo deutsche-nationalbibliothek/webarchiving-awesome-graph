@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-06-26T11:24:40+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-26T20:44:10+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,7 +550,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 30239 ;
+    ns1:num_stars 30244 ;
     ns1:num_watchers 212 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -684,7 +684,7 @@
 <http://awesome.org/iipc/Internet_Archive_Library> a sioc:Item,
         doap:Project ;
     rdfs:label "Internet Archive Library" ;
-    dct:date "2026-06-25T22:40:28+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-26T21:07:00+00:00"^^xsd:dateTime ;
     dct:description "A command line tool and Python library for interacting directly with " ;
     doap:bug-database <https://github.com/jjjake/internetarchive/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-06-26T12:15:31+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-27T00:59:16+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21702 ;
+    ns1:num_stars 21705 ;
     ns1:num_watchers 141 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1395,7 +1395,7 @@
 <http://awesome.org/iipc/Waybackpy> a sioc:Item,
         doap:Project ;
     rdfs:label "Waybackpy" ;
-    dct:date "2026-06-25T11:36:17+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-26T16:04:58+00:00"^^xsd:dateTime ;
     dct:description " Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  " ;
     doap:bug-database <https://github.com/akamhy/waybackpy/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1409,7 +1409,7 @@
         <https://github.com/akamhy/waybackpy.svn> ;
     doap:shortdesc "Wayback Machine API interface & a command-line tool" ;
     owl:sameAs <https://github.com/akamhy/waybackpy> ;
-    ns1:num_stars 590 ;
+    ns1:num_stars 591 ;
     ns1:num_watchers 8 .
 
 <http://awesome.org/iipc/Web2Warc> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-06-26T11:44:51+00:00"^^xsd:dateTime ;
+    dct:date "2026-06-26T22:13:17+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15303 ;
+    ns1:num_stars 15305 ;
     ns1:num_watchers 64 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
