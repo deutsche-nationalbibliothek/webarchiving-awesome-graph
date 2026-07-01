@@ -251,7 +251,7 @@
 <http://awesome.org/iipc/Browsertrix_Crawler> a sioc:Item,
         doap:Project ;
     rdfs:label "Browsertrix Crawler" ;
-    dct:date "2026-06-30T20:24:16+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-01T08:34:40+00:00"^^xsd:dateTime ;
     dct:description "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. " ;
     doap:bug-database <https://github.com/webrecorder/browsertrix-crawler/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -265,7 +265,7 @@
         <https://github.com/webrecorder/browsertrix-crawler.svn> ;
     doap:shortdesc "Run a high-fidelity browser-based web archiving crawler in a single Docker container" ;
     owl:sameAs <https://github.com/webrecorder/browsertrix-crawler> ;
-    ns1:num_stars 1070 ;
+    ns1:num_stars 1071 ;
     ns1:num_watchers 22 .
 
 <http://awesome.org/iipc/Brozzler> a sioc:Item,
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-07-01T01:22:25+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-01T10:49:23+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,7 +550,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 30274 ;
+    ns1:num_stars 30280 ;
     ns1:num_watchers 212 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-06-30T20:22:12+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-01T13:14:51+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21730 ;
+    ns1:num_stars 21739 ;
     ns1:num_watchers 141 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1375,7 +1375,7 @@
 <http://awesome.org/iipc/Wayback> a sioc:Item,
         doap:Project ;
     rdfs:label "Wayback" ;
-    dct:date "2026-06-30T12:16:27+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-01T08:57:35+00:00"^^xsd:dateTime ;
     dct:description "A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. " ;
     doap:bug-database <https://github.com/wabarc/wayback/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1389,7 +1389,7 @@
         <https://github.com/wabarc/wayback.svn> ;
     doap:shortdesc "An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems." ;
     owl:sameAs <https://github.com/wabarc/wayback> ;
-    ns1:num_stars 2207 ;
+    ns1:num_stars 2208 ;
     ns1:num_watchers 6 .
 
 <http://awesome.org/iipc/Waybackpy> a sioc:Item,
@@ -1720,7 +1720,7 @@
 <http://awesome.org/iipc/grab-site> a sioc:Item,
         doap:Project ;
     rdfs:label "grab-site" ;
-    dct:date "2026-06-28T10:31:57+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-01T04:37:37+00:00"^^xsd:dateTime ;
     dct:description "The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. " ;
     doap:bug-database <https://github.com/ArchiveTeam/grab-site/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1732,7 +1732,7 @@
         <https://github.com/ArchiveTeam/grab-site.svn> ;
     doap:shortdesc "The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns" ;
     owl:sameAs <https://github.com/ArchiveTeam/grab-site> ;
-    ns1:num_stars 1594 ;
+    ns1:num_stars 1595 ;
     ns1:num_watchers 39 .
 
 <http://awesome.org/iipc/har2warc> a sioc:Item,
@@ -1802,7 +1802,7 @@
 <http://awesome.org/iipc/hyphe> a sioc:Item,
         doap:Project ;
     rdfs:label "hyphe" ;
-    dct:date "2026-06-15T22:35:24+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-01T07:21:29+00:00"^^xsd:dateTime ;
     dct:description "A webcrawler built for research uses with a graphical user interface in order to build web corpuses made of lists of web actors and maps of links between them. " ;
     doap:bug-database <https://github.com/medialab/hyphe/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1816,7 +1816,7 @@
         <https://github.com/medialab/hyphe.svn> ;
     doap:shortdesc "Websites crawler with built-in exploration and control web interface" ;
     owl:sameAs <https://github.com/medialab/hyphe> ;
-    ns1:num_stars 383 ;
+    ns1:num_stars 384 ;
     ns1:num_watchers 28 .
 
 <http://awesome.org/iipc/jwarc> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-06-30T15:46:01+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-01T02:54:50+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15309 ;
+    ns1:num_stars 15310 ;
     ns1:num_watchers 64 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2012,7 +2012,7 @@
 <http://awesome.org/iipc/warc2html> a sioc:Item,
         doap:Project ;
     rdfs:label "warc2html" ;
-    dct:date "2026-06-24T13:24:30+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-01T12:17:34+00:00"^^xsd:dateTime ;
     dct:description "Converts WARC files to static HTML suitable for browsing offline or rehosting." ;
     doap:bug-database <https://github.com/iipc/warc2html/issues> ;
     doap:category <http://awesome.org/iipc/replay> ;
@@ -2024,7 +2024,7 @@
         <https://github.com/iipc/warc2html.svn> ;
     doap:shortdesc "Converts WARC files to static HTML" ;
     owl:sameAs <https://github.com/iipc/warc2html> ;
-    ns1:num_stars 58 ;
+    ns1:num_stars 59 ;
     ns1:num_watchers 9 .
 
 <http://awesome.org/iipc/warcbench> a sioc:Item,
