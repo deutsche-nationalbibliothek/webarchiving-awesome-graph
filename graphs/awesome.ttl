@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-07-04T14:02:00+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-05T01:49:07+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 27841 ;
+    ns1:num_stars 27846 ;
     ns1:num_watchers 180 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -204,7 +204,7 @@
 <http://awesome.org/iipc/Auto_Archiver> a sioc:Item,
         doap:Project ;
     rdfs:label "Auto Archiver" ;
-    dct:date "2026-07-03T16:58:38+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-05T03:20:38+00:00"^^xsd:dateTime ;
     dct:description "Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the " ;
     doap:bug-database <https://github.com/bellingcat/auto-archiver/issues> ;
     doap:category <http://awesome.org/iipc/acquisition> ;
@@ -217,7 +217,7 @@
         <https://github.com/bellingcat/auto-archiver.svn> ;
     doap:shortdesc "Automatically archive links to videos, images, and social media content from Google Sheets (and more)." ;
     owl:sameAs <https://github.com/bellingcat/auto-archiver> ;
-    ns1:num_stars 1092 ;
+    ns1:num_stars 1093 ;
     ns1:num_watchers 23 .
 
 <http://awesome.org/iipc/Awesome_Memento> a sioc:Item ;
@@ -251,7 +251,7 @@
 <http://awesome.org/iipc/Browsertrix_Crawler> a sioc:Item,
         doap:Project ;
     rdfs:label "Browsertrix Crawler" ;
-    dct:date "2026-07-04T04:48:30+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-04T22:09:33+00:00"^^xsd:dateTime ;
     dct:description "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. " ;
     doap:bug-database <https://github.com/webrecorder/browsertrix-crawler/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -265,7 +265,7 @@
         <https://github.com/webrecorder/browsertrix-crawler.svn> ;
     doap:shortdesc "Run a high-fidelity browser-based web archiving crawler in a single Docker container" ;
     owl:sameAs <https://github.com/webrecorder/browsertrix-crawler> ;
-    ns1:num_stars 1069 ;
+    ns1:num_stars 1070 ;
     ns1:num_watchers 22 .
 
 <http://awesome.org/iipc/Brozzler> a sioc:Item,
@@ -474,7 +474,7 @@
 <http://awesome.org/iipc/DiskerNet> a sioc:Item,
         doap:Project ;
     rdfs:label "DiskerNet" ;
-    dct:date "2026-07-02T09:47:52+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-04T14:14:19+00:00"^^xsd:dateTime ;
     dct:description "A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. " ;
     doap:bug-database <https://github.com/DO-SAY-GO/dn/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -487,7 +487,7 @@
         <https://github.com/DO-SAY-GO/dn.svn> ;
     doap:shortdesc " 💾 dn - offline full-text search and archiving for your Chromium-based browser. " ;
     owl:sameAs <https://github.com/DO-SAY-GO/dn> ;
-    ns1:num_stars 3904 ;
+    ns1:num_stars 3903 ;
     ns1:num_watchers 37 .
 
 <http://awesome.org/iipc/End_of_Term_Archive> a sioc:Item ;
@@ -537,7 +537,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-07-04T14:02:51+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-05T01:42:31+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -550,7 +550,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 30307 ;
+    ns1:num_stars 30310 ;
     ns1:num_watchers 212 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -939,7 +939,7 @@
 <http://awesome.org/iipc/Scoop> a sioc:Item,
         doap:Project ;
     rdfs:label "Scoop" ;
-    dct:date "2026-06-28T19:47:41+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-04T19:47:28+00:00"^^xsd:dateTime ;
     dct:description "High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. " ;
     doap:bug-database <https://github.com/harvard-lil/scoop/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -952,7 +952,7 @@
         <https://github.com/harvard-lil/scoop.svn> ;
     doap:shortdesc "🍨 High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web." ;
     owl:sameAs <https://github.com/harvard-lil/scoop> ;
-    ns1:num_stars 203 ;
+    ns1:num_stars 204 ;
     ns1:num_watchers 7 .
 
 <http://awesome.org/iipc/SecurityTrails> a sioc:Item,
@@ -985,7 +985,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-07-04T13:49:16+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-05T03:34:01+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -999,7 +999,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 21750 ;
+    ns1:num_stars 21752 ;
     ns1:num_watchers 141 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1840,7 +1840,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-07-04T05:55:27+00:00"^^xsd:dateTime ;
+    dct:date "2026-07-05T04:34:40+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1854,7 +1854,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15320 ;
+    ns1:num_stars 15321 ;
     ns1:num_watchers 64 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
