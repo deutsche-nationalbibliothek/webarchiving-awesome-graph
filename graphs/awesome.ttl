@@ -534,7 +534,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-08-23T20:15:39+00:00"^^xsd:dateTime ;
+    dct:date "2026-08-24T09:24:52+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -547,7 +547,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 30678 ;
+    ns1:num_stars 30680 ;
     ns1:num_watchers 214 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -878,7 +878,7 @@
 <http://awesome.org/iipc/PYWB> a sioc:Item,
         doap:Project ;
     rdfs:label "PYWB" ;
-    dct:date "2026-08-23T18:14:52+00:00"^^xsd:dateTime ;
+    dct:date "2026-08-24T09:08:56+00:00"^^xsd:dateTime ;
     dct:description "A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. " ;
     doap:bug-database <https://github.com/webrecorder/pywb/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -892,7 +892,7 @@
         <https://github.com/webrecorder/pywb.svn> ;
     doap:shortdesc "Core Python Web Archiving Toolkit for replay and recording of web archives" ;
     owl:sameAs <https://github.com/webrecorder/pywb> ;
-    ns1:num_stars 1691 ;
+    ns1:num_stars 1692 ;
     ns1:num_watchers 58 .
 
 <http://awesome.org/iipc/PageFreezer> a sioc:Item ;
@@ -1002,7 +1002,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-08-24T02:01:21+00:00"^^xsd:dateTime ;
+    dct:date "2026-08-24T06:46:56+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1016,7 +1016,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 22225 ;
+    ns1:num_stars 22228 ;
     ns1:num_watchers 141 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1345,7 +1345,7 @@
 <http://awesome.org/iipc/Warcprox> a sioc:Item,
         doap:Project ;
     rdfs:label "Warcprox" ;
-    dct:date "2026-08-09T07:26:58+00:00"^^xsd:dateTime ;
+    dct:date "2026-08-24T07:27:03+00:00"^^xsd:dateTime ;
     dct:description "WARC-writing MITM HTTP/S proxy. " ;
     doap:bug-database <https://github.com/internetarchive/warcprox/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1357,7 +1357,7 @@
         <https://github.com/internetarchive/warcprox.svn> ;
     doap:shortdesc "WARC writing MITM HTTP/S proxy" ;
     owl:sameAs <https://github.com/internetarchive/warcprox> ;
-    ns1:num_stars 461 ;
+    ns1:num_stars 462 ;
     ns1:num_watchers 30 .
 
 <http://awesome.org/iipc/Warcworker> a sioc:Item,
@@ -1399,7 +1399,7 @@
 <http://awesome.org/iipc/Wayback> a sioc:Item,
         doap:Project ;
     rdfs:label "Wayback" ;
-    dct:date "2026-08-23T16:30:42+00:00"^^xsd:dateTime ;
+    dct:date "2026-08-24T08:41:24+00:00"^^xsd:dateTime ;
     dct:description "A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. " ;
     doap:bug-database <https://github.com/wabarc/wayback/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1413,7 +1413,7 @@
         <https://github.com/wabarc/wayback.svn> ;
     doap:shortdesc "An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems." ;
     owl:sameAs <https://github.com/wabarc/wayback> ;
-    ns1:num_stars 2227 ;
+    ns1:num_stars 2228 ;
     ns1:num_watchers 6 .
 
 <http://awesome.org/iipc/Waybackpy> a sioc:Item,
@@ -2089,7 +2089,7 @@
 <http://awesome.org/iipc/warcio> a sioc:Item,
         doap:Project ;
     rdfs:label "warcio" ;
-    dct:date "2026-08-15T09:03:09+00:00"^^xsd:dateTime ;
+    dct:date "2026-08-24T03:46:30+00:00"^^xsd:dateTime ;
     dct:description "Streaming WARC/ARC library for fast web archive IO (Python). " ;
     doap:bug-database <https://github.com/webrecorder/warcio/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -2103,7 +2103,7 @@
         <https://github.com/webrecorder/warcio.svn> ;
     doap:shortdesc "Streaming WARC/ARC library for fast web archive IO" ;
     owl:sameAs <https://github.com/webrecorder/warcio> ;
-    ns1:num_stars 468 ;
+    ns1:num_stars 469 ;
     ns1:num_watchers 21 .
 
 <http://awesome.org/iipc/warcrefs> a sioc:Item,
@@ -3347,7 +3347,7 @@
         <http://awesome.org/iipc/training-materials> .
 
 <https://github.com/DO-SAY-GO/tdf> a doap:Project ;
-    dct:date "2026-08-21T23:22:19+00:00"^^xsd:dateTime ;
+    dct:date "2026-08-24T05:19:37+00:00"^^xsd:dateTime ;
     doap:bug-database <https://github.com/DO-SAY-GO/tdf/issues> ;
     doap:created "2019-12-20T09:47:32+00:00"^^xsd:dateTime ;
     doap:description "🌱 TDF - Tree Document Format - a universal file format for web collections" ;
@@ -3356,7 +3356,7 @@
     doap:repository <https://github.com/DO-SAY-GO/tdf.git>,
         <https://github.com/DO-SAY-GO/tdf.svn> ;
     doap:shortdesc "🌱 TDF - Tree Document Format - a universal file format for web collections" ;
-    ns1:num_stars 3906 ;
+    ns1:num_stars 3907 ;
     ns1:num_watchers 37 .
 
 <https://github.com/Florents-Tselai/WarcDB> a doap:Project ;
