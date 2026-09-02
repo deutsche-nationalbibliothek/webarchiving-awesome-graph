@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-09-01T16:44:03+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-02T02:36:24+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 28218 ;
+    ns1:num_stars 28224 ;
     ns1:num_watchers 188 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -251,7 +251,7 @@
 <http://awesome.org/iipc/Browsertrix_Crawler> a sioc:Item,
         doap:Project ;
     rdfs:label "Browsertrix Crawler" ;
-    dct:date "2026-08-31T14:27:11+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-01T19:22:37+00:00"^^xsd:dateTime ;
     dct:description "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. " ;
     doap:bug-database <https://github.com/webrecorder/browsertrix-crawler/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -265,7 +265,7 @@
         <https://github.com/webrecorder/browsertrix-crawler.svn> ;
     doap:shortdesc "Run a high-fidelity browser-based web archiving crawler in a single Docker container" ;
     owl:sameAs <https://github.com/webrecorder/browsertrix-crawler> ;
-    ns1:num_stars 1125 ;
+    ns1:num_stars 1126 ;
     ns1:num_watchers 22 .
 
 <http://awesome.org/iipc/Brozzler> a sioc:Item,
@@ -534,7 +534,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-09-01T16:28:24+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-02T03:53:57+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -547,7 +547,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 30744 ;
+    ns1:num_stars 30751 ;
     ns1:num_watchers 219 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -1002,7 +1002,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-09-01T14:37:20+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-02T03:25:26+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1826,7 +1826,7 @@
 <http://awesome.org/iipc/hyphe> a sioc:Item,
         doap:Project ;
     rdfs:label "hyphe" ;
-    dct:date "2026-08-22T08:41:45+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-02T02:45:20+00:00"^^xsd:dateTime ;
     dct:description "A webcrawler built for research uses with a graphical user interface in order to build web corpuses made of lists of web actors and maps of links between them. " ;
     doap:bug-database <https://github.com/medialab/hyphe/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1840,7 +1840,7 @@
         <https://github.com/medialab/hyphe.svn> ;
     doap:shortdesc "Websites crawler with built-in exploration and control web interface" ;
     owl:sameAs <https://github.com/medialab/hyphe> ;
-    ns1:num_stars 386 ;
+    ns1:num_stars 387 ;
     ns1:num_watchers 28 .
 
 <http://awesome.org/iipc/jwarc> a sioc:Item,
@@ -1864,7 +1864,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-09-01T13:46:40+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-01T21:45:36+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1878,7 +1878,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15456 ;
+    ns1:num_stars 15458 ;
     ns1:num_watchers 68 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2229,7 +2229,7 @@
 <http://awesome.org/iipc/xDoTool> a sioc:Item,
         doap:Project ;
     rdfs:label "xDoTool" ;
-    dct:date "2026-09-01T16:20:03+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-01T18:30:54+00:00"^^xsd:dateTime ;
     dct:description "Click automation on Ubuntu." ;
     doap:bug-database <https://github.com/jordansissel/xdotool/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -2241,7 +2241,7 @@
         <https://github.com/jordansissel/xdotool.svn> ;
     doap:shortdesc "fake keyboard/mouse input, window management, and more " ;
     owl:sameAs <https://github.com/jordansissel/xdotool> ;
-    ns1:num_stars 3844 ;
+    ns1:num_stars 3845 ;
     ns1:num_watchers 61 .
 
 <http://awesome.org/iipc/resources-for-web-publishers> a skos:Concept ;
@@ -3383,7 +3383,7 @@
         foaf:Organization .
 
 <https://github.com/sul-dlss-deprecated/wasapi-downloader> a doap:Project ;
-    dct:date "2026-03-03T21:34:04+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-01T20:55:40+00:00"^^xsd:dateTime ;
     doap:bug-database <https://github.com/sul-dlss-deprecated/wasapi-downloader/issues> ;
     doap:created "2017-04-28T21:15:37+00:00"^^xsd:dateTime ;
     doap:description "Java application to download WARCs from WASAPI" ;
