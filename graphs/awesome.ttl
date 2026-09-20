@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-09-20T04:43:15+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-20T15:48:43+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 28542 ;
+    ns1:num_stars 28548 ;
     ns1:num_watchers 187 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -251,7 +251,7 @@
 <http://awesome.org/iipc/Browsertrix_Crawler> a sioc:Item,
         doap:Project ;
     rdfs:label "Browsertrix Crawler" ;
-    dct:date "2026-09-18T16:10:58+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-20T12:49:14+00:00"^^xsd:dateTime ;
     dct:description "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. " ;
     doap:bug-database <https://github.com/webrecorder/browsertrix-crawler/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -265,7 +265,7 @@
         <https://github.com/webrecorder/browsertrix-crawler.svn> ;
     doap:shortdesc "Run a high-fidelity browser-based web archiving crawler in a single Docker container" ;
     owl:sameAs <https://github.com/webrecorder/browsertrix-crawler> ;
-    ns1:num_stars 1141 ;
+    ns1:num_stars 1143 ;
     ns1:num_watchers 22 .
 
 <http://awesome.org/iipc/Brozzler> a sioc:Item,
@@ -534,7 +534,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-09-20T03:06:41+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-20T15:36:12+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -547,7 +547,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 30894 ;
+    ns1:num_stars 30895 ;
     ns1:num_watchers 221 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -1002,7 +1002,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-09-20T03:55:47+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-20T15:26:40+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1016,7 +1016,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 22436 ;
+    ns1:num_stars 22439 ;
     ns1:num_watchers 144 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1874,7 +1874,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-09-19T12:00:27+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-20T10:27:34+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1888,7 +1888,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15486 ;
+    ns1:num_stars 15487 ;
     ns1:num_watchers 69 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -2219,7 +2219,7 @@
 <http://awesome.org/iipc/wikiteam> a sioc:Item,
         doap:Project ;
     rdfs:label "wikiteam" ;
-    dct:date "2026-09-14T01:22:45+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-20T12:04:39+00:00"^^xsd:dateTime ;
     dct:description "Tools for downloading and preserving wikis. " ;
     doap:bug-database <https://github.com/WikiTeam/wikiteam/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -2233,13 +2233,13 @@
         <https://github.com/WikiTeam/wikiteam.svn> ;
     doap:shortdesc "Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis." ;
     owl:sameAs <https://github.com/WikiTeam/wikiteam> ;
-    ns1:num_stars 867 ;
+    ns1:num_stars 868 ;
     ns1:num_watchers 37 .
 
 <http://awesome.org/iipc/xDoTool> a sioc:Item,
         doap:Project ;
     rdfs:label "xDoTool" ;
-    dct:date "2026-09-19T06:08:31+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-20T15:50:55+00:00"^^xsd:dateTime ;
     dct:description "Click automation on Ubuntu." ;
     doap:bug-database <https://github.com/jordansissel/xdotool/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -3370,7 +3370,7 @@
         <http://awesome.org/iipc/training-materials> .
 
 <https://github.com/DO-SAY-GO/tdf> a doap:Project ;
-    dct:date "2026-09-12T09:33:13+00:00"^^xsd:dateTime ;
+    dct:date "2026-09-20T07:27:57+00:00"^^xsd:dateTime ;
     doap:bug-database <https://github.com/DO-SAY-GO/tdf/issues> ;
     doap:created "2019-12-20T09:47:32+00:00"^^xsd:dateTime ;
     doap:description "🌱 TDF - Tree Document Format - a universal file format for web collections" ;
@@ -3379,7 +3379,7 @@
     doap:repository <https://github.com/DO-SAY-GO/tdf.git>,
         <https://github.com/DO-SAY-GO/tdf.svn> ;
     doap:shortdesc "🌱 TDF - Tree Document Format - a universal file format for web collections" ;
-    ns1:num_stars 3909 ;
+    ns1:num_stars 3908 ;
     ns1:num_watchers 37 .
 
 <https://github.com/Florents-Tselai/WarcDB> a doap:Project ;
