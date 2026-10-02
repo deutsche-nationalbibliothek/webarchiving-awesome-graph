@@ -204,13 +204,13 @@ groups:
 - [Chrome Revolver](https://chromewebstore.google.com/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - Browser extension: switches between browser tabs. 💽
 - [Chrome link checker](https://chromewebstore.google.com/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) - Browser extension: basic link checker. 💽
 - [Chrome link gopher](https://chromewebstore.google.com/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) - Browser extension: link harvester on a page. 💽
-- [FlameShot](https://github.com/flameshot-org/flameshot) - Screen capture and annotation on Ubuntu. 💽 ⭐ 31054 👀 221
+- [FlameShot](https://github.com/flameshot-org/flameshot) - Screen capture and annotation on Ubuntu. 💽 ⭐ 31063 👀 221
 - [PlayOnLinux](https://www.playonlinux.com/en/) - For running Xenu and Notepad++ on Ubuntu. 💽
 - [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS. 💽
 - [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows built-in for partial screen capture and annotation. On macOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture). 💽
 - [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS. 💽
 - [Xenu](http://home.snafu.de/tilman/xenulink.html) - Desktop link checker for Windows. 💽
-- [xDoTool](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu. 💽 ⭐ 3851 👀 60
+- [xDoTool](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu. 💽 ⭐ 3852 👀 60
 
 ### Search & Discovery
 
@@ -248,7 +248,7 @@ groups:
 ### Utilities
 
 - [ArchiveTools](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python). 💽 ⭐ 81 👀 5
-- [Go Get Crawl](https://github.com/karust/gogetcrawl) - Extract web archive data using  💽 ⭐ 185 👀 2
+- [Go Get Crawl](https://github.com/karust/gogetcrawl) - Extract web archive data using  💽 ⭐ 186 👀 2
 - [HTTPreserve linkstat](https://github.com/httpreserve/linkstat) - Command line implementation of  💽 ⭐ 10 👀 1
 - [Internet Archive Library](https://github.com/jjjake/internetarchive) - A command line tool and Python library for interacting directly with  💽 ⭐ 1915 👀 54
 - [MemGator](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server (Golang).  💽 ⭐ 82 👀 9
@@ -280,10 +280,10 @@ groups:
 
 ### Acquisition
 
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly  💽 ⭐ 28669 👀 188
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly  💽 ⭐ 28671 👀 188
 - [ArchiveWeb.Page](https://webrecorder.net/archivewebpage/) - A plugin for Chrome and other Chromium based browsers that lets you interactively archive web pages, replay them, and export them as WARC & WACZ files. Also available as an Electron based desktop application. 💽
 - [Auto Archiver](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the  💽 ⭐ 1126 👀 21
-- [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.  💽 ⭐ 1152 👀 22
+- [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.  💽 ⭐ 1151 👀 22
 - [Brozzler](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links.  💽 ⭐ 821 👀 36
 - [Cairn](https://github.com/wabarc/cairn) - A npm package and CLI tool for saving webpages as single HTML files. It does not produce WARC or WACZ archives.  💽 ⭐ 52 👀 2
 - [Chronicler](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality.  💽 ⭐ 92 👀 1
@@ -295,7 +295,7 @@ groups:
 - [Heritrix](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler.  💽
 - [Obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file.  💽 ⭐ 322 👀 8
 - [Scoop](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web.  💽 ⭐ 213 👀 8
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file.  💽 ⭐ 22521 👀 144
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file.  💽 ⭐ 22522 👀 144
 - [SiteStory](http://mementoweb.github.io/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server.  💽
 - [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs.  💽
 - [Squidwarc](https://github.com/N0taN3rd/Squidwarc) - An  💽 ⭐ 178 👀 9
@@ -305,7 +305,7 @@ groups:
 - [Warcprox](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy.  💽 ⭐ 467 👀 30
 - [Warcworker](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI.  💽 ⭐ 62 👀 5
 - [Wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond.  💽 ⭐ 2237 👀 6
-- [Waybackpy](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool   💽 ⭐ 605 👀 9
+- [Waybackpy](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool   💽 ⭐ 606 👀 9
 - [Web2Warc](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX).  💽 ⭐ 26 👀 2
 - [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit.  💽
 - [Web Curator Tool](https://webcuratortool.org) - Open-source workflow management for selective web archiving.  💽
@@ -323,7 +323,7 @@ groups:
 
 ## In Development
 
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly  💽 ⭐ 28669 👀 188
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly  💽 ⭐ 28671 👀 188
 - [Chronicler](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality.  💽 ⭐ 92 👀 1
 - [DiskerNet](https://github.com/DO-SAY-GO/dn) - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay.  💽 ➡️ moved to https://github.com/DO-SAY-GO/tdf
 - [MementoMap](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings (Python).  💽 ⭐ 12 👀 5
@@ -348,7 +348,7 @@ groups:
 - [Archives Research Compute Hub](https://github.com/internetarchive/arch) - Web application for distributed compute analysis of Archive-It web archive collections.  💽 ⭐ 21 👀 18
 - [Archives Unleashed Notebooks](https://github.com/archivesunleashed/notebooks) - Notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit.  💽 ⭐ 26 👀 5
 - [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) - An open-source platform for analyzing web archives with Apache Spark.  💽 ⭐ 157 👀 12
-- [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.  💽 ⭐ 1152 👀 22
+- [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container.  💽 ⭐ 1151 👀 22
 - [Brozzler](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links.  💽 ⭐ 821 👀 36
 - [Cairn](https://github.com/wabarc/cairn) - A npm package and CLI tool for saving webpages as single HTML files. It does not produce WARC or WACZ archives.  💽 ⭐ 52 👀 2
 - [Common Crawl Columnar Index](https://commoncrawl.org/tag/columnar-index/) - SQL-queryable index, with CDX info plus language classification.  💽
@@ -356,7 +356,7 @@ groups:
 - [Common Crawl Web Graph](https://commoncrawl.org/category/web-graph/) - A host or domain-level graph of the web, with ranking information.  💽
 - [Crawl](https://git.autistici.org/ale/crawl) - A simple web crawler in Golang.  💽
 - [F(b)arc](https://github.com/justinlittman/fbarc) - A commandline tool and Python library for archiving data from  💽 ⭐ 78 👀 1
-- [Go Get Crawl](https://github.com/karust/gogetcrawl) - Extract web archive data using  💽 ⭐ 185 👀 2
+- [Go Get Crawl](https://github.com/karust/gogetcrawl) - Extract web archive data using  💽 ⭐ 186 👀 2
 - [HTTPreserve linkstat](https://github.com/httpreserve/linkstat) - Command line implementation of  💽 ⭐ 10 👀 1
 - [HTTrack](http://www.httrack.com/) - An open source website copying utility.  💽
 - [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and  💽 ⭐ 9 👀 1
@@ -376,7 +376,7 @@ groups:
 - [ReplayWeb.page](https://webrecorder.net/replaywebpage/) - A browser-based, fully client-side replay engine for both local and remote WARC & WACZ files. Also available as an Electron based desktop application.  💽
 - [Scoop](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web.  💽 ⭐ 213 👀 8
 - [Shine](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the  💽 ⭐ 44 👀 2
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file.  💽 ⭐ 22521 👀 144
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file.  💽 ⭐ 22522 👀 144
 - [SiteStory](http://mementoweb.github.io/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server.  💽
 - [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs.  💽
 - [Sparkling](https://github.com/internetarchive/Sparkling) - Internet Archive's Sparkling Data Processing Library.  💽 ⭐ 17 👀 18
@@ -391,7 +391,7 @@ groups:
 - [Warcprox](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy.  💽 ⭐ 467 👀 30
 - [Warcworker](https://github.com/peterk/warcworker) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI.  💽 ⭐ 62 👀 5
 - [Wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond.  💽 ⭐ 2237 👀 6
-- [Waybackpy](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool   💽 ⭐ 605 👀 9
+- [Waybackpy](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool   💽 ⭐ 606 👀 9
 - [Web2Warc](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX).  💽 ⭐ 26 👀 2
 - [Web Curator Tool](https://webcuratortool.org) - Open-source workflow management for selective web archiving.  💽
 - [Web Data Commons](http://webdatacommons.org/) - Structured data extracted from Common Crawl.  💽
