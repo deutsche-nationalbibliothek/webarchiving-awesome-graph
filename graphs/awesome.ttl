@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-10-06T06:14:18+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T17:50:11+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 28690 ;
+    ns1:num_stars 28696 ;
     ns1:num_watchers 187 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -251,7 +251,7 @@
 <http://awesome.org/iipc/Browsertrix_Crawler> a sioc:Item,
         doap:Project ;
     rdfs:label "Browsertrix Crawler" ;
-    dct:date "2026-10-05T23:30:18+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T15:27:53+00:00"^^xsd:dateTime ;
     dct:description "A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. " ;
     doap:bug-database <https://github.com/webrecorder/browsertrix-crawler/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -265,13 +265,13 @@
         <https://github.com/webrecorder/browsertrix-crawler.svn> ;
     doap:shortdesc "Run a high-fidelity browser-based web archiving crawler in a single Docker container" ;
     owl:sameAs <https://github.com/webrecorder/browsertrix-crawler> ;
-    ns1:num_stars 1153 ;
+    ns1:num_stars 1155 ;
     ns1:num_watchers 22 .
 
 <http://awesome.org/iipc/Brozzler> a sioc:Item,
         doap:Project ;
     rdfs:label "Brozzler" ;
-    dct:date "2026-10-05T08:08:35+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T17:58:05+00:00"^^xsd:dateTime ;
     dct:description "A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. " ;
     doap:bug-database <https://github.com/internetarchive/brozzler/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -285,7 +285,7 @@
     doap:shortdesc "brozzler - distributed browser-based web crawler" ;
     owl:sameAs <https://github.com/internetarchive/brozzler> ;
     ns1:num_stars 821 ;
-    ns1:num_watchers 35 .
+    ns1:num_watchers 36 .
 
 <http://awesome.org/iipc/Cairn> a sioc:Item,
         doap:Project ;
@@ -534,7 +534,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-10-06T05:01:00+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T17:20:03+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -547,7 +547,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 31093 ;
+    ns1:num_stars 31103 ;
     ns1:num_watchers 221 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -681,7 +681,7 @@
 <http://awesome.org/iipc/Internet_Archive_Library> a sioc:Item,
         doap:Project ;
     rdfs:label "Internet Archive Library" ;
-    dct:date "2026-10-05T08:13:56+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T14:29:27+00:00"^^xsd:dateTime ;
     dct:description "A command line tool and Python library for interacting directly with " ;
     doap:bug-database <https://github.com/jjjake/internetarchive/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -694,7 +694,7 @@
         <https://github.com/jjjake/internetarchive.svn> ;
     doap:shortdesc "A Python and Command-Line Interface to Archive.org" ;
     owl:sameAs <https://github.com/jjjake/internetarchive> ;
-    ns1:num_stars 1916 ;
+    ns1:num_stars 1915 ;
     ns1:num_watchers 54 .
 
 <http://awesome.org/iipc/Internet_Archive_Wayback> a sioc:Item ;
@@ -878,7 +878,7 @@
 <http://awesome.org/iipc/PYWB> a sioc:Item,
         doap:Project ;
     rdfs:label "PYWB" ;
-    dct:date "2026-10-01T13:01:26+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T17:57:32+00:00"^^xsd:dateTime ;
     dct:description "A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. " ;
     doap:bug-database <https://github.com/webrecorder/pywb/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -892,7 +892,7 @@
         <https://github.com/webrecorder/pywb.svn> ;
     doap:shortdesc "Core Python Web Archiving Toolkit for replay and recording of web archives" ;
     owl:sameAs <https://github.com/webrecorder/pywb> ;
-    ns1:num_stars 1706 ;
+    ns1:num_stars 1705 ;
     ns1:num_watchers 58 .
 
 <http://awesome.org/iipc/PageFreezer> a sioc:Item ;
@@ -1002,7 +1002,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-10-06T05:39:17+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T17:38:21+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1016,7 +1016,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 22541 ;
+    ns1:num_stars 22539 ;
     ns1:num_watchers 144 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1345,7 +1345,7 @@
 <http://awesome.org/iipc/Warcprox> a sioc:Item,
         doap:Project ;
     rdfs:label "Warcprox" ;
-    dct:date "2026-10-05T11:03:11+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T17:57:29+00:00"^^xsd:dateTime ;
     dct:description "WARC-writing MITM HTTP/S proxy. " ;
     doap:bug-database <https://github.com/internetarchive/warcprox/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1357,7 +1357,7 @@
         <https://github.com/internetarchive/warcprox.svn> ;
     doap:shortdesc "WARC writing MITM HTTP/S proxy" ;
     owl:sameAs <https://github.com/internetarchive/warcprox> ;
-    ns1:num_stars 468 ;
+    ns1:num_stars 467 ;
     ns1:num_watchers 30 .
 
 <http://awesome.org/iipc/Warcworker> a sioc:Item,
@@ -1718,7 +1718,7 @@
 <http://awesome.org/iipc/freeze-dry> a sioc:Item,
         doap:Project ;
     rdfs:label "freeze-dry" ;
-    dct:date "2026-09-11T05:07:53+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T17:59:00+00:00"^^xsd:dateTime ;
     dct:description "JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. " ;
     doap:bug-database <https://github.com/WebMemex/freeze-dry/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -1732,7 +1732,7 @@
         <https://github.com/WebMemex/freeze-dry.svn> ;
     doap:shortdesc "Snapshots a web page to get it as a static, self-contained HTML document." ;
     owl:sameAs <https://github.com/WebMemex/freeze-dry> ;
-    ns1:num_stars 306 ;
+    ns1:num_stars 305 ;
     ns1:num_watchers 10 .
 
 <http://awesome.org/iipc/gowarcserver> a sioc:Item,
@@ -1874,7 +1874,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-10-06T03:08:48+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T13:37:49+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -2219,7 +2219,7 @@
 <http://awesome.org/iipc/wikiteam> a sioc:Item,
         doap:Project ;
     rdfs:label "wikiteam" ;
-    dct:date "2026-09-24T02:50:24+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T16:20:00+00:00"^^xsd:dateTime ;
     dct:description "Tools for downloading and preserving wikis. " ;
     doap:bug-database <https://github.com/WikiTeam/wikiteam/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -2233,13 +2233,13 @@
         <https://github.com/WikiTeam/wikiteam.svn> ;
     doap:shortdesc "Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis." ;
     owl:sameAs <https://github.com/WikiTeam/wikiteam> ;
-    ns1:num_stars 871 ;
+    ns1:num_stars 872 ;
     ns1:num_watchers 37 .
 
 <http://awesome.org/iipc/xDoTool> a sioc:Item,
         doap:Project ;
     rdfs:label "xDoTool" ;
-    dct:date "2026-10-04T17:21:23+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-06T17:56:50+00:00"^^xsd:dateTime ;
     dct:description "Click automation on Ubuntu." ;
     doap:bug-database <https://github.com/jordansissel/xdotool/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -2251,7 +2251,7 @@
         <https://github.com/jordansissel/xdotool.svn> ;
     doap:shortdesc "fake keyboard/mouse input, window management, and more " ;
     owl:sameAs <https://github.com/jordansissel/xdotool> ;
-    ns1:num_stars 3855 ;
+    ns1:num_stars 3854 ;
     ns1:num_watchers 60 .
 
 <http://awesome.org/iipc/resources-for-web-publishers> a skos:Concept ;
