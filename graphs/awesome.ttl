@@ -60,7 +60,7 @@
 <http://awesome.org/iipc/ArchiveBox> a sioc:Item,
         doap:Project ;
     rdfs:label "ArchiveBox" ;
-    dct:date "2026-10-08T05:51:22+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-08T18:37:10+00:00"^^xsd:dateTime ;
     dct:description "A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly " ;
     doap:bug-database <https://github.com/ArchiveBox/ArchiveBox/issues> ;
     doap:category <http://awesome.org/iipc/In_Development>,
@@ -74,7 +74,7 @@
         <https://github.com/ArchiveBox/ArchiveBox.svn> ;
     doap:shortdesc "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..." ;
     owl:sameAs <https://github.com/ArchiveBox/ArchiveBox> ;
-    ns1:num_stars 28702 ;
+    ns1:num_stars 28710 ;
     ns1:num_watchers 187 .
 
 <http://awesome.org/iipc/ArchiveSpark> a sioc:Item,
@@ -534,7 +534,7 @@
 <http://awesome.org/iipc/FlameShot> a sioc:Item,
         doap:Project ;
     rdfs:label "FlameShot" ;
-    dct:date "2026-10-08T05:56:53+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-08T15:28:05+00:00"^^xsd:dateTime ;
     dct:description "Screen capture and annotation on Ubuntu." ;
     doap:bug-database <https://github.com/flameshot-org/flameshot/issues> ;
     doap:category <http://awesome.org/iipc/quality-assurance> ;
@@ -547,7 +547,7 @@
         <https://github.com/flameshot-org/flameshot.svn> ;
     doap:shortdesc "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" ;
     owl:sameAs <https://github.com/flameshot-org/flameshot> ;
-    ns1:num_stars 31122 ;
+    ns1:num_stars 31131 ;
     ns1:num_watchers 221 .
 
 <http://awesome.org/iipc/GLAM_Workbench%3A_Web_Archives> a sioc:Item ;
@@ -878,7 +878,7 @@
 <http://awesome.org/iipc/PYWB> a sioc:Item,
         doap:Project ;
     rdfs:label "PYWB" ;
-    dct:date "2026-10-08T03:49:08+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-08T15:32:28+00:00"^^xsd:dateTime ;
     dct:description "A Python 3 implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. " ;
     doap:bug-database <https://github.com/webrecorder/pywb/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -892,7 +892,7 @@
         <https://github.com/webrecorder/pywb.svn> ;
     doap:shortdesc "Core Python Web Archiving Toolkit for replay and recording of web archives" ;
     owl:sameAs <https://github.com/webrecorder/pywb> ;
-    ns1:num_stars 1707 ;
+    ns1:num_stars 1708 ;
     ns1:num_watchers 58 .
 
 <http://awesome.org/iipc/PageFreezer> a sioc:Item ;
@@ -1002,7 +1002,7 @@
 <http://awesome.org/iipc/SingleFile> a sioc:Item,
         doap:Project ;
     rdfs:label "SingleFile" ;
-    dct:date "2026-10-08T06:08:18+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-08T18:51:26+00:00"^^xsd:dateTime ;
     dct:description "Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. " ;
     doap:bug-database <https://github.com/gildas-lormeau/SingleFile/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1016,7 +1016,7 @@
         <https://github.com/gildas-lormeau/SingleFile.svn> ;
     doap:shortdesc "Web Extension for saving a faithful copy of a complete web page in a single HTML file" ;
     owl:sameAs <https://github.com/gildas-lormeau/SingleFile> ;
-    ns1:num_stars 22549 ;
+    ns1:num_stars 22555 ;
     ns1:num_watchers 144 .
 
 <http://awesome.org/iipc/SiteStory> a sioc:Item,
@@ -1754,7 +1754,7 @@
 <http://awesome.org/iipc/grab-site> a sioc:Item,
         doap:Project ;
     rdfs:label "grab-site" ;
-    dct:date "2026-10-04T17:45:08+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-08T18:21:40+00:00"^^xsd:dateTime ;
     dct:description "The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. " ;
     doap:bug-database <https://github.com/ArchiveTeam/grab-site/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1766,7 +1766,7 @@
         <https://github.com/ArchiveTeam/grab-site.svn> ;
     doap:shortdesc "The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns" ;
     owl:sameAs <https://github.com/ArchiveTeam/grab-site> ;
-    ns1:num_stars 1614 ;
+    ns1:num_stars 1615 ;
     ns1:num_watchers 39 .
 
 <http://awesome.org/iipc/har2warc> a sioc:Item,
@@ -1874,7 +1874,7 @@
 <http://awesome.org/iipc/monolith> a sioc:Item,
         doap:Project ;
     rdfs:label "monolith" ;
-    dct:date "2026-10-07T23:56:37+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-08T17:52:32+00:00"^^xsd:dateTime ;
     dct:description "CLI tool to save a web page as a single HTML file. " ;
     doap:bug-database <https://github.com/Y2Z/monolith/issues> ;
     doap:category <http://awesome.org/iipc/Stable>,
@@ -1888,7 +1888,7 @@
         <https://github.com/Y2Z/monolith.svn> ;
     doap:shortdesc "⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file" ;
     owl:sameAs <https://github.com/Y2Z/monolith> ;
-    ns1:num_stars 15512 ;
+    ns1:num_stars 15516 ;
     ns1:num_watchers 69 .
 
 <http://awesome.org/iipc/node-cdxj> a sioc:Item,
@@ -3370,7 +3370,7 @@
         <http://awesome.org/iipc/training-materials> .
 
 <https://github.com/DO-SAY-GO/tdf> a doap:Project ;
-    dct:date "2026-10-07T04:02:00+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-08T18:03:14+00:00"^^xsd:dateTime ;
     doap:bug-database <https://github.com/DO-SAY-GO/tdf/issues> ;
     doap:created "2019-12-20T09:47:32+00:00"^^xsd:dateTime ;
     doap:description "🌱 TDF - Tree Document Format - a universal file format for web collections" ;
@@ -3383,7 +3383,7 @@
     ns1:num_watchers 37 .
 
 <https://github.com/Florents-Tselai/WarcDB> a doap:Project ;
-    dct:date "2026-07-28T00:05:05+00:00"^^xsd:dateTime ;
+    dct:date "2026-10-08T08:43:52+00:00"^^xsd:dateTime ;
     doap:bug-database <https://github.com/Florents-Tselai/WarcDB/issues> ;
     doap:created "2022-05-29T11:09:36+00:00"^^xsd:dateTime ;
     doap:description "WarcDB: Web crawl data as SQLite databases." ;
@@ -3394,7 +3394,7 @@
         <https://github.com/Florents-Tselai/WarcDB.svn> ;
     doap:shortdesc "WarcDB: Web crawl data as SQLite databases." ;
     ns1:num_stars 407 ;
-    ns1:num_watchers 7 .
+    ns1:num_watchers 6 .
 
 <https://github.com/archivesunleashed> a foaf:Agent,
         foaf:Organization .
