@@ -5,7 +5,7 @@ version = "0.1.0"
 readme = "README.md"
 authors = [{name = "Natanael Arndt", email = "n.arndt@dnb.de"}]
 requires-python = '>=3.11,<3.16'
-dependencies = ["click (>=8.5.1,<9.0.0)", "rdflib (>=7.1.1,<8.0.0)", "ruff (>=0.17.5,<0.18.0)", "pysparql-anything (>=1.3.0.0,<2.0.0.0)", "gitdoap (>=0.1.1,<0.2.0)"]
+dependencies = ["click (>=8.5.1,<9.0.0)", "rdflib (>=7.1.1,<8.0.0)", "ruff (>=0.17.5,<0.18.0)", "pysparql-anything (>=1.3.0.0,<2.0.0.0)", "gitdoap (>=0.2.0,<0.3.0)"]
 
 [tool.poetry]
 packages = [
